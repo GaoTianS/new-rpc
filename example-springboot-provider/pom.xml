@@ -15,8 +15,8 @@
     </properties>
     <dependencies>
         <dependency>
-            <groupId>com.yupi</groupId>
-            <artifactId>yu-rpc-spring-boot-starter</artifactId>
+            <groupId>com.gt.newrpc</groupId>
+            <artifactId>new-rpc-spring-boot-starter</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
@@ -65,7 +65,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <version>${spring-boot.version}</version>
                 <configuration>
-                    <mainClass>com.yupi.examplespringbootprovider.ExampleSpringbootProviderApplication</mainClass>
+                    <mainClass>com.gt.examplespringbootprovider.ExampleSpringbootProviderApplication</mainClass>
                     <skip>true</skip>
                 </configuration>
                 <executions>

@@ -1,0 +1,3 @@
+roundRobin=com.gt.newrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.gt.newrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.gt.newrpc.loadbalancer.ConsistentHashLoadBalancer

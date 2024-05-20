@@ -1,0 +1,2 @@
+no=com.gt.newrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.gt.newrpc.fault.retry.FixedIntervalRetryStrategy

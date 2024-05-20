@@ -11,7 +11,7 @@
     <dependencies>
         <dependency>
             <groupId>com.yupi</groupId>
-            <artifactId>yu-rpc-core</artifactId>
+            <artifactId>new-rpc-core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
         <dependency>

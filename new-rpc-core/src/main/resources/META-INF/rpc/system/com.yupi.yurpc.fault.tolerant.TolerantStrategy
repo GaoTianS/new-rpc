@@ -1,0 +1,4 @@
+failBack=com.gt.newrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.gt.newrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.gt.newrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.gt.newrpc.fault.tolerant.FailSafeTolerantStrategy

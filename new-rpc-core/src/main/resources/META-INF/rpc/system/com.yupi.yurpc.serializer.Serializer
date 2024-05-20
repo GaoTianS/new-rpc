@@ -1,0 +1,4 @@
+jdk=com.gt.newrpc.serializer.JdkSerializer
+hessian=com.gt.newrpc.serializer.HessianSerializer
+json=com.gt.newrpc.serializer.JsonSerializer
+kryo=com.gt.newrpc.serializer.KryoSerializer
